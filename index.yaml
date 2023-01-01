@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sloop:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-01-01T06:57:31.931170836+02:00"
+    description: Sloop is a kubernetes history visualization tool.
+    digest: 8a5e172c936da98e8c8d669c5d5db1a33c47dc14ecce59100e336f36ca5382e1
+    icon: https://raw.githubusercontent.com/salesforce/sloop/master/other/sloop_logo_color.png
+    name: sloop
+    urls:
+    - sloop-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-01T06:57:31.930775235+02:00"
